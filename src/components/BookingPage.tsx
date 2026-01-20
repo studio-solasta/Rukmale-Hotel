@@ -207,7 +207,7 @@ function BookingFormSection({ bookingData, selectedRoomType }: {
             BOOK YOUR STAY
           </div>
           <div className="font-['Outfit:Regular',_'Montserrat'] text-black text-[20px] max-w-4xl mx-auto mb-8">
-            We're delighted you're considering Rukmale Gedara Bungalow for your next getaway. Fill out the form below to request your reservation. We will confirm your booking shortly after receiving your details.
+            We're delighted you're considering Rukmale Boutique Bungalow for your next getaway. Fill out the form below to request your reservation. We will confirm your booking shortly after receiving your details.
           </div>
         </motion.div>
 
@@ -514,7 +514,7 @@ function BookingFormSection({ bookingData, selectedRoomType }: {
                 Upon submission, we'll contact you directly to finalize your booking details.
               </p>
               <p>
-                Thank you for choosing Rukmale Gedara Bungalow. We look forward to welcoming you soon!
+                Thank you for choosing Rukmale Boutique Bungalow. We look forward to welcoming you soon!
               </p>
             </div>
           </motion.div>
