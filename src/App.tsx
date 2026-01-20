@@ -429,7 +429,7 @@ function IntroSection() {
           transition={{ duration: 0.6, delay: 0.6 }}
         >
           <p className="mb-4">
-            Welcome to Rukmale Gedara Bungalow Resort, where sustainable and
+            Welcome to Rukmale Boutique Bungalow Resort, where sustainable and
             luxury come together to create an unforgettable escape. Nested in
             the heat of pristine nature landscape.
           </p>

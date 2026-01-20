@@ -82,7 +82,7 @@ export default function Footer({ onNavigate }: { onNavigate: (page: string, sect
             onClick={() => onNavigate('home')}
           />
           <div className="font-['Outfit:Medium',_'Montserrat'] font-medium text-black text-[22px] lg:text-[28px]">
-            Rukmale Gedara Bungalow
+            Rukmale Boutique Bungalow
           </div>
         </motion.div>
 
@@ -219,7 +219,7 @@ export default function Footer({ onNavigate }: { onNavigate: (page: string, sect
 
         {/* Bottom Rights Text */}
         <div className="mt-4 text-center text-[12px] lg:text-[14px] text-black/60">
-          &copy; {new Date().getFullYear()} Rukmale Gedara Bungalow. All Rights Reserved.
+          &copy; {new Date().getFullYear()} Rukmale Boutique Bungalow. All Rights Reserved.
         </div>
       </div>
     </motion.div>

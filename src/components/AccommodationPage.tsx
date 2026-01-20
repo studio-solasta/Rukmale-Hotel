@@ -489,7 +489,7 @@ function RoomsSection({
         transition={{ duration: 0.6, delay: 0.2 }}
       >
         <div className="font-['Outfit:Regular',_'Montserrat'] text-black text-[16px] lg:text-[20px] max-w-5xl mx-auto mb-16">
-          Welcome to Rukmale Gedara Bungalow, your luxurious home away from
+          Welcome to Rukmale Boutique Bungalow, your luxurious home away from
           home. Choose the accommodation that best suits your needs and enjoy a
           comfortable, relaxing stay.
         </div>
