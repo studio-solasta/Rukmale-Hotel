@@ -44,7 +44,7 @@ function HeroSection({ onNavigate, currentPage }: { onNavigate: (page: string, s
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 1, delay: 1.2, ease: "easeOut" }}
           >
-            Welcome to Rukmale Gedara Bungalow
+            Welcome to Rukmale Boutique Bungalow
           </motion.div>
         </div>
       </div>
@@ -327,7 +327,7 @@ function WelcomeSection() {
 
             <div className="space-y-6 font-['Outfit:Light',_'Montserrat'] font-light text-black text-[16px] tracking-[0.64px] leading-relaxed lg:text-justify">
               <p>
-                Welcome to Rukmale Gedara Bungalow, where nature meets luxury to create unforgettable experiences. Situated amidst lush greenery and tranquil surroundings, our bungalow is more than just a place to stay—it's your sanctuary to relax, rejuvenate, and reconnect.
+                Welcome to Rukmale Boutique Bungalow, where nature meets luxury to create unforgettable experiences. Situated amidst lush greenery and tranquil surroundings, our bungalow is more than just a place to stay—it's your sanctuary to relax, rejuvenate, and reconnect.
               </p>
               
               <p>
@@ -339,7 +339,7 @@ function WelcomeSection() {
               </p>
               
               <p>
-                Come, experience the true essence of relaxation and create lasting memories at Rukmale Gedara Bungalow.
+                Come, experience the true essence of relaxation and create lasting memories at Rukmale Boutique Bungalow.
               </p>
             </div>
           </motion.div>
@@ -443,7 +443,7 @@ function GetInTouchSection() {
             GET IN TOUCH
           </div>
           <div className="font-['Outfit:Regular',_'Montserrat'] text-black text-[16px] lg:text-[20px] max-w-4xl mx-auto">
-            We'd love to hear from you! Whether you have questions about our accommodations, need assistance with your booking, or simply want to learn more about Rukmale Gedara Bungalow, we're here to help.
+            We'd love to hear from you! Whether you have questions about our accommodations, need assistance with your booking, or simply want to learn more about Rukmale Boutique Bungalow, we're here to help.
           </div>
         </motion.div>
 

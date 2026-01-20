@@ -298,7 +298,7 @@ function Intro() {
       />
       <div className="absolute font-['Outfit:Regular',_sans-serif] font-normal leading-[normal] left-[397.5px] text-[#000000] text-[20px] text-center top-[556px] translate-x-[-50%] w-[901px]">
         <p className="block mb-0">
-          Welcome to Rukmale Gedara Bungalow Resort, where sustainable and
+          Welcome to Rukmale Boutique Bungalow Resort, where sustainable and
           luxury come together to create an unforgettable escape. Nested in the
           heat of pristine nature landscape.
         </p>
@@ -743,7 +743,7 @@ function Frame5() {
     <div className="absolute h-[141px] left-[428px] top-[233px] w-[427px]">
       <div className="absolute font-['Outfit:Medium',_sans-serif] font-medium leading-[0] left-0 text-[#000000] text-[40px] text-left text-nowrap top-[93px]">
         <p className="block leading-[normal] whitespace-pre">
-          Rukmale Gedara Bungalow
+          Rukmale Boutique Bungalow
         </p>
       </div>
       <div
